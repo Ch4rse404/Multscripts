@@ -1,4 +1,4 @@
-![[Python 3.6.7](https://github.com/Ch4rse404)](http://img.shields.io/badge/python-3.6-red.svg)
+![[Python](https://github.com/Ch4rse404)](http://img.shields.io/badge/Python-3.4-red.svg)
 ![[Date](https://github.com/Ch4rse404)](http://img.shields.io/badge/date-05/10/2022-orange.svg)
 ![[Version 1.5](https://github.com/Ch4rse404)](http://img.shields.io/badge/version-v1.0-blue.svg)
 ![[Chat](https://github.com/Ch4rse404)](http://img.shields.io/badge/Chat-Igreja_Da_Misoginia-red.svg)
@@ -10,15 +10,15 @@
 #
 > **TEAM 404**
 > - **🇭🇷 Codigo criado pela 404**
-> - **🔰 Author Ch4rse404 and Koppy**
+> - **🔰 Author Ch4rse404 and Koppy**  
 
 > **CODIGO**
 > - **📜 License APACHE**
-> - **📝 Leng Python 3.6**
+> - **📝 Leng Python 3**
 #
 > **ANDROID**
 > - - [x] **KALI NETHUNTER**
-> - - [x] **TERMUX**
+> - - [x] **TERMUX**  
 
 > **LINUX**
 > - - [x] **KALI**
@@ -28,8 +28,12 @@
 
 ![](https://files.fm/f/nwvefr2gr)
 
-![](https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f722e676966)
+![](https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966)
+
 ![](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+
+<h1>desenvolvedores</h1>
+
 ![[Author](https://github.com/Ch4rse404)](http://img.shields.io/badge/Author-ch4rse-green.svg)
 ![[Author](https://github.com/koppy)](http://img.shields.io/badge/Author-koppy-green.svg)
 
@@ -37,7 +41,7 @@
 
 ![[usar](https://github.com/Ch4rse404)](http://img.shields.io/badge/usar-como_usar_o_multscript-orange.svg)
 
-#### *📲 CMD'S TERMUX*
+#### *📲 CMD'S TERMUX*  
 ```
 apt install python3
 apt install git
